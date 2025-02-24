@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @BP2974
-- 📫 How to reach me - day6@kakao.com
+How to reach me - day6@kakao.com
